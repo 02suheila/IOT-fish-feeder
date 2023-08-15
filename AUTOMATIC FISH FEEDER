@@ -103,6 +103,15 @@ DISADVANTAGES OF FISH FEEDER:
 
 ARDUINO UNO:
 Arduino Uno can be used for a wide range of applications, including robotics, home automation, sensor-based projects, data logging, interactive installations, 
-educational tools, and more.
+educational tools, for small projects.
+It contains 
+14 digital pins
+8 analog pins
+AtMega 328 microcontroller
+DC supply
+USB connection
+reset button
 
 SERVOMOTOR:
+motor used to rotate w.r/t time in different degrees may as clockwiseand anticlock wise.mainly to control position of object.
+
